@@ -78,7 +78,7 @@ The `<Grid>` component is optional and can help to wrap children in a fixed/flui
 - `md`
 - `lg` _(Boolean|Integer)_:
   * When `true`, enable auto sizing column.
-  * When `false`, hide colomn for the breakpoint.
+  * When `false`, hide column for the breakpoint.
   * When `integer` value, it specify the column size on the grid. (1 to 12)
 - `xsOffset`
 - `smOffset`
